@@ -7,8 +7,8 @@ Program 1B-->o/p:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/
 Program 1C-->o/p:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program01C.png
 
 
-Program 2A-->o/p link:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program02A.png
-Program 2B-->o/p link:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program02B.png
+Program 2A-->o/p:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program02A.png
+Program 2B-->o/p:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program02B.png
 
 
 Program 3A-->o/p link:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program03A.png
