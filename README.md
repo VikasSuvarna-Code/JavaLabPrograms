@@ -1,8 +1,10 @@
 # JavaLabPrograms
 
-Program 1A-->o/p link:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program01A.png
-Program 1B-->o/p link:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program01B.png
-Program 1C-->o/p link:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program01C.png
+Program 1A-->o/p:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program01A.png
+
+Program 1B-->o/p:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program01B.png
+
+Program 1C-->o/p:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program01C.png
 
 
 Program 2A-->o/p link:https://github.com/VikasSuvarna-Code/JavaLabPrograms/blob/main/program02A.png
